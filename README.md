@@ -44,8 +44,8 @@ ROC curves for Logistic Regression, Naive Bayes, Decision Tree, and Random Fores
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/hotel_reservations_cancellation.git
-cd hotel_reservations_cancellation
+git clone https://github.com/yourusername/hotel_reservation_cancellation.git
+cd hotel_reservation_cancellation
 ```
 2. **Install dependencies:**:   
 ```commandline
@@ -66,3 +66,4 @@ Yoseph Negash
 📧 yosephn22@gmail.com
 
 📅 2025
+
