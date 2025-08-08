@@ -2,7 +2,7 @@
 This project predicts hotel booking cancellations using multiple machine learning models with evaluation and hyperparameter tuning on a real-world dataset
 
 ## 📊 Dataset
-Dataset:[Hotel Reservations Classification]([https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)) 
+Dataset:[Hotel Reservations Classification]([https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset) 
 
 - Rows: 36,275
 - Target Variable: booking_status (Canceled or Not)
@@ -66,6 +66,7 @@ Yoseph Negash
 📧 yosephn22@gmail.com
 
 📅 2025
+
 
 
 
