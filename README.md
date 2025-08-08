@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 📂 Files in This Repo
 
-- hotel_booking_analysis.ipynb: Jupyter notebook with data cleaning, EDA, modeling, hyperparameter tuning, and visualization
+- hotel_cancellation.ipynb: Jupyter notebook with data cleaning, EDA, modeling, hyperparameter tuning, and visualization
 - gridsearch_results.png: Heatmap of GridSearchCV results for Random Forest
 - roc_auc.png: ROC curves for all models
 - requirements.txt: Python dependencies
@@ -66,4 +66,5 @@ Yoseph Negash
 📧 yosephn22@gmail.com
 
 📅 2025
+
 
